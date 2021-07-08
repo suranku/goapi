@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Pallava/fullstack/api"
+import "github.com/suranku/goapi/fullstack/api"
 
 func main() {
 	api.Run()
