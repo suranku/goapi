@@ -1,4 +1,4 @@
-module github.com/Pallava/fullstack
+module github.com/suranku/goapi
 
 go 1.16
 
