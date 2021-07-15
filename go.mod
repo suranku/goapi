@@ -8,6 +8,7 @@ require (
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/jinzhu/gorm v1.9.16 // indirect
 	github.com/joho/godotenv v1.3.0 // indirect
+	github.com/prestodb/presto-go-client v0.0.0-20201204133205-8958eb37e584 // indirect
 	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 )
